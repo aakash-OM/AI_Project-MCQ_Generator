@@ -1,0 +1,19 @@
+What is artificial intelligence?
+Artificial intelligence (AI) is the theory and development of computer systems capable of performing tasks that historically required human intelligence, such as recognizing speech, making decisions, and identifying patterns. AI is an umbrella term that encompasses a wide variety of technologies, including machine learning, deep learning, and natural language processing (NLP). 
+
+Although the term is commonly used to describe a range of different technologies in use today, many disagree on whether these actually constitute artificial intelligence. Instead, some argue that much of the technology used in the real world today actually constitutes highly advanced machine learning that is simply a first step towards true artificial intelligence, or “general artificial intelligence” (GAI).
+
+Yet, despite the many philosophical disagreements over whether “true” intelligent machines actually exist, when most people use the term AI today, they’re referring to a suite of machine learning-powered technologies, such as Chat GPT or computer vision, that enable machines to perform tasks that previously only humans can do like generating written content, steering a car, or analyzing data. 
+
+Artificial intelligence examples 
+Though the humanoid robots often associated with AI (think Star Trek: The Next Generation’s Data or Terminator’s  T-800) don’t exist yet, you’ve likely interacted with machine learning-powered services or devices many times before. 
+
+At the simplest level, machine learning uses algorithms trained on data sets to create machine learning models that allow computer systems to perform tasks like making song recommendations, identifying the fastest way to travel to a destination, or translating text from one language to another. Some of the most common examples of AI in use today include: 
+
+ChatGPT: Uses large language models (LLMs) to generate text in response to questions or comments posed to it. 
+
+Google Translate: Uses deep learning algorithms to translate text from one language to another. 
+
+Netflix: Uses machine learning algorithms to create personalized recommendation engines for users based on their previous viewing history. 
+
+Tesla: Uses computer vision to power self-driving features on their cars.
